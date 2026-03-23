@@ -1,5 +1,7 @@
 # OBD-II / ELM327 Complete PID & Command Reference
 
+> **Language / Dil:**  [English](OBD2_Complete_PID_Reference_EN.md) | [Türkçe](OBD2_Tam_PID_Referans.md)
+
 Complete OBD-II PID reference for building your own car diagnostic application.
 
 ## What's Inside
